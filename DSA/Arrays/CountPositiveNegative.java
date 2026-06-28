@@ -7,7 +7,7 @@ public class CountPositiveNegative {
         int[] numbers = {-1, 2, 5, -6, 0};
 
         int positiveCount = 0;
-        int negativeCount = 0;
+        int negativeCount = 0;  
         int zeroCount = 0;
 
         for (int i = 0; i < numbers.length; i++) {
